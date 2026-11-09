@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi! I'm Isabel Kendall 👋
+
+I am a recent graduate from Northeastern University with a B.S. in Cognitive Psychology and Computer Science, with minors in Human Communication and French. I am passionate about the intersection between technology and psychology, in particular human-computer interactions and user experience designs.
 
 <!--
 **ivkendall/ivkendall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
